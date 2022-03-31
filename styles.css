@@ -1,3 +1,8 @@
+/* Element name selector */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 /* Class name selector */
 .headh1{
     font-size: 60px;
@@ -9,11 +14,6 @@
     color: white;
     padding: 20px;
     border-radius: 10px;
-}
-
-/* Element name selector */
-body{
-    font-family: 'Poppins', sans-serif;
 }
 
 img{
