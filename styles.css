@@ -1,0 +1,79 @@
+/* Class name selector */
+.headh1{
+    font-size: 60px;
+}
+
+.head{
+    /* background-color: #000002; */
+    background-image: url("image/suit1.jpg");
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Element name selector */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+img{
+    border-radius: 10px;
+}
+
+video{
+    border-radius: 10px;
+}
+
+a{
+    color: deepskyblue;
+    margin: 5px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+button{
+    background-color: #072557;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover{
+    border-color: #043c9d;
+}
+
+
+
+
+
+.productCategory{
+    background-color: #000a1d;
+    color: #ffffff;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.myform{
+    width: 500px;
+}
+
+
+
+
+
+
+.tablefooter{
+    text-align: center;
+    background-color: #000a1d;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.tablefooter a{
+    color: white;
+}
